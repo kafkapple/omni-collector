@@ -1,0 +1,16 @@
+name: omni-collector
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - requests
+    - beautifulsoup4
+    - google-generativeai
+    - python-dotenv
+    - hydra-core
+    - google-api-python-client
+    - youtube-transcript-api
+    - streamlit
+    - pandas

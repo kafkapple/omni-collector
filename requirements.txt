@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+google-generativeai
+python-dotenv
+hydra-core
+google-api-python-client
+youtube-transcript-api
